@@ -295,6 +295,7 @@
 
 
 # print(num_one.index("s")+1)
+
 # Lessons From 38 to 40 ####[1]####
 # name = input("enter name : ").strip().capitalize()
 # print(f'hello {name}')
